@@ -1,0 +1,10 @@
+corey schafer-yt
+
+Functions
+Lambda 
+args and kwargs
+string methods 
+List comprehension
+File handling 
+exceptions
+OOP Basics (class,obj,__init__,inheritance)
