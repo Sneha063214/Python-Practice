@@ -1,9 +1,9 @@
 corey schafer-yt
 
-Functions
-Lambda 
-args and kwargs
-string methods 
+Functions✅
+Lambda ✅
+args and kwargs✅
+string methods ✅
 List comprehension
 File handling 
 exceptions
